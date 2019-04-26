@@ -1,0 +1,10 @@
+body {
+    background-color: azure;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #3E363F;
+    font-family: "Roboto", sans-serif;
+    height: 100vh;
+    overflow: hidden;
+  }

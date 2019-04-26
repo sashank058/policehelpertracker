@@ -13,6 +13,8 @@ const SignUpView = ({ onSubmit }) => {
             placeholder="Email"
           />
         </label>
+        <br></br>
+        <br></br>
         <label>
           Password
           <input
@@ -21,6 +23,8 @@ const SignUpView = ({ onSubmit }) => {
             placeholder="Password"
           />
         </label>
+        <br></br>
+        <br></br>
         <button type="submit">Sign Up</button>
       </form>
     </div>

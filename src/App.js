@@ -43,7 +43,7 @@ class App extends Component {
             exact
             path="/"
             component={Home}
-            authenticated={authenticated}
+            authenticated={this.state.authenticated}
           />
           <Route exact path="/login" component={LogIn} />
           <Route exact path="/signup" component={SignUp} />
